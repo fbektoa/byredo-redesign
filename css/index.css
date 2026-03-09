@@ -38,6 +38,9 @@ img{display: block;}
 
 header{
   width: 100%;
+  position: fixed;
+  z-index: 10;
+  background: #fff;
 }
 header .wrap h1 a{
   width: 33.602vw;
@@ -249,6 +252,7 @@ display: block;
 main .sec1{
   width: 100%;
   position: relative;
+  top: 130px;
 }
 main .sec1 img{
   width: 100%;
