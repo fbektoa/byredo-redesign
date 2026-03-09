@@ -78,7 +78,7 @@ display: block;
   position: absolute;
   height: 6px;
   width: 100%;
-  background: #d3531a;
+  background: #333;
   border-radius: 6px;
   opacity: 1;
   left: 0;
@@ -906,4 +906,5 @@ footer .wrap .right .right-box3{
 footer .wrap .right .right-box3 ul{
   font-size: 13px;
 }
+
 }
